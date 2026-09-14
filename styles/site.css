@@ -33,3 +33,9 @@ section p strong {
   border: none;
   color: #000000;
 }
+
+picture img {
+  width: 100%;
+  min-width: 375px;
+  max-width: 5272px;
+}
